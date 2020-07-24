@@ -1,6 +1,6 @@
 {
   "name": "fihan",
-  "version": "1.0.0",
+  "version": "1.0.15",
   "description": "A Simple Stupid LightWeight Logger Library",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
